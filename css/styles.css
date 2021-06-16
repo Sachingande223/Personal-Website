@@ -154,5 +154,15 @@ a:hover {
        width: 598px;
        height: 357px;
    }
+   .bottom-cloud {
+    position: absolute;
+    left: 2rem;
+    bottom: 18.75rem;
+}
+.top-cloud {
+    position: absolute;
+    right: 1.875rem;
+    top: 3.125rem;
+}
       
 }
